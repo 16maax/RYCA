@@ -1,0 +1,92 @@
+[
+    {
+        "id": "CD160CES",
+        "titulo": "Cepillo de Aire",
+        "imagen": "../img/belleza/Imagen1.jpg",
+        "categoria": {
+            "nombre": "Belleza",
+            "id": "Belleza"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "CD160CESW",
+        "titulo": "Spa hidromasaje",
+        "imagen": "../img/belleza/Imagen2.jpg",
+        "categoria": {
+            "nombre": "Belleza",
+            "id": "Belleza"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "CB2335RES",
+        "titulo": "Alaciadora & Tenaza",
+        "imagen": "../img/belleza/Imagen3.jpg",
+        "categoria": {
+            "nombre": "Belleza",
+            "id": "Belleza"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "CB2335RES4",
+        "titulo": "Extractor",
+        "imagen": "../img/cocina/Imagen7.jpg",
+        "categoria": {
+            "nombre": "Cocina",
+            "id": "Cocina"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "CB2335RES1",
+        "titulo": "Máquina Oster",
+        "imagen": "../img/cocina/Imagen8.jpg",
+        "categoria": {
+            "nombre": "Cocina",
+            "id": "Cocina"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RR63D6WBXF",
+        "titulo": "ASASAS",
+        "imagen": "../img/cocina/Imagen9.jpg",
+        "categoria": {
+            "nombre": "Cocina",
+            "id": "Cocina"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RR63D6WBX",
+        "titulo": "Refrigerador",
+        "imagen": "../img/electrodomesticos/Imagen4.jpg",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "Electrodomesticos"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RR63D6WQX",
+        "titulo": "Cafetera",
+        "imagen": "../img/electrodomesticos/Imagen5.jpg",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "Electrodomesticos"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Batidora",
+        "imagen": "../img/electrodomesticos/Imagen6.png",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "Electrodomesticos"
+        },
+        "precio": 2000
+    }
+]

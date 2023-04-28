@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.2/pdfmake.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.2/vfs_fonts.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.3.1/jspdf.umd.min.js"></script>
+    <link rel="stylesheet" href="../css/menu.css">
+    <title>Registro</title>
+</head>
+<body>
+    <div class="contenedor">
+        <header class="header-mobile">
+            <h1 class="logo">RYCA</h1>
+            <button class="open-menu" id="open-menu">
+                <i class="bi bi-list"></i>
+            </button>
+        </header>
+        <aside>
+            <button class="close-menu" id="close-menu">
+                <i class="bi bi-x"></i>
+            </button>
+            <header>
+                <h1 class="logo">RYCA</h1>
+            </header>
+            <nav>
+                <ul>
+                    <li>
+                        <a class="boton-menu boton-volver" href="menu.html">
+                            <i class="bi bi-arrow-return-left"></i></i>Seguir comprando
+                        </a>
+                    </li>
+                    <li>
+                        <a class="boton-menu boton-carrito active" href="registro.html">
+                            <i class="bi bi-ui-checks"></i>Registro
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            <footer>
+                <p class="text-footer"><strong>Los precios pueden aumentar o disminuir dependiendo el proveedor, cuando realice la cotizacion pude contactarnos para obtener mas informacion de cada producto.</strong></p>
+            </footer>
+        </aside>
+        <main class="main-registro">
+            <div class="form-box">
+                <form class="form">
+                    <span class="title">Registro</span>
+                    <span class="subtitle">Ingresa la informacion en los campos correctos.</span>
+                    <div class="form-container">
+                        <input type="text" class="input" id="nom" placeholder="Nombre completo">
+                        <input type="text" class="input" id="curp" placeholder="CURP">
+                        <input type="text" class="input" id="tel" placeholder="Telefono">
+                    </div>
+                    <button id="guardar">Guardar</button>
+                </form>
+            </div>
+        </main>
+    </div>
+    <script src="../js/registro.js"></script>
+    <script src="../js/menu.js"></script>
+</body>
+</html>
