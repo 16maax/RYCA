@@ -1,7 +1,7 @@
 [
     {
         "id": "CD160CES",
-        "titulo": "Cepillo de Aire",
+        "titulo": "Cepillo de Aire con",
         "imagen": "../img/belleza/Imagen1.jpg",
         "categoria": {
             "nombre": "Belleza",

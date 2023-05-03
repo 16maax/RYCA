@@ -8,6 +8,7 @@
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.2/pdfmake.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.2/vfs_fonts.js"></script>
+    <script src="JsBarcode.all.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.3.1/jspdf.umd.min.js"></script>
     <link rel="stylesheet" href="../css/menu.css">
     <title>Registro</title>
@@ -52,12 +53,14 @@
                     <span class="subtitle">Ingresa la informacion en los campos correctos.</span>
                     <div class="form-container">
                         <input type="text" class="input" id="nom" placeholder="Nombre completo">
-                        <input type="text" class="input" id="curp" placeholder="CURP">
+                        <input type="text" class="input" id="curp" placeholder="CURP" pattern="[A-Z]{3}[0-9]{6}[A-Z]{2}[0-9A-Z]{1}[0-9]{1}" required>
                         <input type="text" class="input" id="tel" placeholder="Telefono">
+                        <input type="text" class="input" id="email" placeholder="Correo">
                     </div>
                     <button id="guardar">Guardar</button>
                 </form>
             </div>
+            <img id="codigo-barras"/>
         </main>
     </div>
     <script src="../js/registro.js"></script>
