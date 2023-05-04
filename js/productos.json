@@ -1,8 +1,8 @@
 [
     {
         "id": "CD160CES",
-        "titulo": "Cepillo de Aire con",
-        "imagen": "../img/belleza/Imagen1.jpg",
+        "titulo": "Aro luz led",
+        "imagen": "../img/belleza/Aro Luz Led 18pulgadas Nueva Tecnología.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -11,18 +11,48 @@
     },
     {
         "id": "CD160CESW",
-        "titulo": "Spa hidromasaje",
-        "imagen": "../img/belleza/Imagen2.jpg",
+        "titulo": "Cama para masajes portatil",
+        "imagen": "../img/belleza/Cama Para Masajes Portatil Spa Plegable Ergonomica Lashista.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 1000
+        "precio": 1800
     },
     {
         "id": "CB2335RES",
-        "titulo": "Alaciadora & Tenaza",
-        "imagen": "../img/belleza/Imagen3.jpg",
+        "titulo": "Kit tijeras estlisita",
+        "imagen": "../img/belleza/Kit 11 Tijeras Estilista Peluquero Hogar Salón Para Cabello.webp",
+        "categoria": {
+            "nombre": "Belleza",
+            "id": "Belleza"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "CB2385RES",
+        "titulo": "Lampara cure",
+        "imagen": "../img/belleza/Lampara Cure.webp",
+        "categoria": {
+            "nombre": "Belleza",
+            "id": "Belleza"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "CB2385RES",
+        "titulo": "Lampara de uñas",
+        "imagen": "../img/belleza/Lámpara de uñas.jpg",
+        "categoria": {
+            "nombre": "Belleza",
+            "id": "Belleza"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "CB2385RES",
+        "titulo": "Cama plegable de masajes",
+        "imagen": "../img/belleza/Promoción! Cama Plegable De Masajes Portátil Spa Tattoo.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -31,18 +61,38 @@
     },
     {
         "id": "CB2335RES4",
-        "titulo": "Extractor",
-        "imagen": "../img/cocina/Imagen7.jpg",
+        "titulo": "Pulidor de uñas",
+        "imagen": "../img/belleza/Pulidor De Uñas.webp",
         "categoria": {
-            "nombre": "Cocina",
-            "id": "Cocina"
+            "nombre": "Belleza",
+            "id": "Belleza"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "CB2335RES4",
+        "titulo": "Pulidor electrica",
+        "imagen": "../img/belleza/Pulidora Electrica.webp",
+        "categoria": {
+            "nombre": "Belleza",
+            "id": "Belleza"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "CB2335RES4",
+        "titulo": "Silla para faciales lashista",
+        "imagen": "../img/belleza/Silla Faciales Lashista Cejas Estética Pestañas.webp",
+        "categoria": {
+            "nombre": "Belleza",
+            "id": "Belleza"
         },
         "precio": 2000
     },
     {
         "id": "CB2335RES1",
-        "titulo": "Máquina Oster",
-        "imagen": "../img/cocina/Imagen8.jpg",
+        "titulo": "Barril vitroleros",
+        "imagen": "../img/cocina/6 Barril Vitroleros 3 De 20 Litros.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -51,8 +101,8 @@
     },
     {
         "id": "RR63D6WBXF",
-        "titulo": "ASASAS",
-        "imagen": "../img/cocina/Imagen9.jpg",
+        "titulo": "Cazo para carnitas",
+        "imagen": "../img/cocina/Cazo Para Carnitas.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -61,18 +111,108 @@
     },
     {
         "id": "RR63D6WBX",
-        "titulo": "Refrigerador",
-        "imagen": "../img/electrodomesticos/Imagen4.jpg",
+        "titulo": "Cuchillo profesional",
+        "imagen": "../img/cocina/Cuchillo Chef Profesional De Acero Aleman Inoxidable.webp",
         "categoria": {
-            "nombre": "Electrodomesticos",
-            "id": "Electrodomesticos"
+            "nombre": "Cocina",
+            "id": "Cocina"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RR63D6WBX",
+        "titulo": "Hielera",
+        "imagen": "../img/cocina/Hielera 48 Qt O 45 Lit Azul.webp",
+        "categoria": {
+            "nombre": "Cocina",
+            "id": "Cocina"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RR63D6WBX",
+        "titulo": "Hielera Coleman",
+        "imagen": "../img/cocina/Hielera Coleman Xtreme 70.webp",
+        "categoria": {
+            "nombre": "Cocina",
+            "id": "Cocina"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RR63D6WBX",
+        "titulo": "Horno",
+        "imagen": "../img/cocina/Horno De 4 Charolas De 45x65 Panadero Pizzero Negocios.webp",
+        "categoria": {
+            "nombre": "Cocina",
+            "id": "Cocina"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RR63D6WBX",
+        "titulo": "Juego de cuchillos",
+        "imagen": "../img/cocina/Juego Cuchillos Tramontina.webp",
+        "categoria": {
+            "nombre": "Cocina",
+            "id": "Cocina"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RR63D6WBX",
+        "titulo": "Juego de cuchillos",
+        "imagen": "../img/cocina/Juego De Cuchillos 7 pz Cocina Acero Inoxidable Y Pelado.webp",
+        "categoria": {
+            "nombre": "Cocina",
+            "id": "Cocina"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RR63D6WBX",
+        "titulo": "Juego de sarten",
+        "imagen": "../img/cocina/Juego De Sarten Cinsa.webp",
+        "categoria": {
+            "nombre": "Cocina",
+            "id": "Cocina"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RR63D6WBX",
+        "titulo": "Juego de sartenes",
+        "imagen": "../img/cocina/Juego De Sartenes Antiadherentes de Zafiro Flavor Pan.webp",
+        "categoria": {
+            "nombre": "Cocina",
+            "id": "Cocina"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RR63D6WBX",
+        "titulo": "Moldes para pasteles",
+        "imagen": "../img/cocina/Moldes Grandes Pastel Redondo Recto.webp",
+        "categoria": {
+            "nombre": "Cocina",
+            "id": "Cocina"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RR63D6WBX",
+        "titulo": "Vitrina refigerada",
+        "imagen": "../img/cocina/Vitrina Refrigerada Sobre Mostrador Rtw100l.webp",
+        "categoria": {
+            "nombre": "Cocina",
+            "id": "Cocina"
         },
         "precio": 2000
     },
     {
         "id": "RR63D6WQX",
-        "titulo": "Cafetera",
-        "imagen": "../img/electrodomesticos/Imagen5.jpg",
+        "titulo": "Batidora",
+        "imagen": "../img/electrodomesticos/Batidora De Inmersión 60hz 260w Batidora Eléctrico.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
@@ -81,11 +221,261 @@
     },
     {
         "id": "RQQ3D6WBX",
-        "titulo": "Batidora",
-        "imagen": "../img/electrodomesticos/Imagen6.png",
+        "titulo": "Cafetera",
+        "imagen": "../img/electrodomesticos/Cafetera Percoladora Hamilton.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Extractor Turmix",
+        "imagen": "../img/electrodomesticos/Extractor Turmix De Jugos.webp",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "Electrodomesticos"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Microondas",
+        "imagen": "../img/electrodomesticos/Horno de Microondas 09P Panasonic.webp",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "Electrodomesticos"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Microondas",
+        "imagen": "../img/electrodomesticos/HORNO MICROONDAS PANASONIC.webp",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "Electrodomesticos"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Maquina de coser",
+        "imagen": "../img/electrodomesticos/Maquina de coser over 3 hilos.webp",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "Electrodomesticos"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Maquina de coser",
+        "imagen": "../img/electrodomesticos/Máquina de coser recta Singer M1505 portable blanca.webp",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "Electrodomesticos"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Refrigerador Hisense",
+        "imagen": "../img/electrodomesticos/Refrigerador Hisense RR63D6WBX de 7 Pies Negro.webp",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "Electrodomesticos"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Impresora",
+        "imagen": "../img/electronica/Impresora a color multifunción Epson EcoTank L3210 negra 110V.webp",
+        "categoria": {
+            "nombre": "Electronica",
+            "id": "Electronica"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Laminadora termica y frio",
+        "imagen": "../img/electronica/Laminadora Enmicadora Térmica Y Frio 5 en 1 Con Cortador.webp",
+        "categoria": {
+            "nombre": "Electronica",
+            "id": "Electronica"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Laminadora termica",
+        "imagen": "../img/electronica/Laminadora Enmicadora Térmica.webp",
+        "categoria": {
+            "nombre": "Electronica",
+            "id": "Electronica"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Laptop lenovo",
+        "imagen": "../img/electronica/Laptop Lenovo Ideapad 3 14'' Ryzen 3 8gb Ram 512gb Ssd Azul.webp",
+        "categoria": {
+            "nombre": "Electronica",
+            "id": "Electronica"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Sillon silla",
+        "imagen": "../img/muebles/Sillon Silla Hidraulica.webp",
+        "categoria": {
+            "nombre": "Muebles",
+            "id": "Muebles"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Estantes de plasticos",
+        "imagen": "../img/muebles/3 Estantes De Plastico Armable.webp",
+        "categoria": {
+            "nombre": "Muebles",
+            "id": "Muebles"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Anaquel estante",
+        "imagen": "../img/muebles/Anaquel Estante Metálico.webp",
+        "categoria": {
+            "nombre": "Muebles",
+            "id": "Muebles"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Carrito auxiliar",
+        "imagen": "../img/muebles/Carrito Auxiliar Organizador Multiusos 3 Niveles Ruedas 360.webp",
+        "categoria": {
+            "nombre": "Muebles",
+            "id": "Muebles"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Carrito organizador",
+        "imagen": "../img/muebles/Carrito Organizador para Cocina Estética Baño.webp",
+        "categoria": {
+            "nombre": "Muebles",
+            "id": "Muebles"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Dos estantes",
+        "imagen": "../img/muebles/Dos Estantes Plastico Armable.webp",
+        "categoria": {
+            "nombre": "Muebles",
+            "id": "Muebles"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Estante anaquel",
+        "imagen": "../img/muebles/Estante Anaquel Rack Repisas 5 Niveles.webp",
+        "categoria": {
+            "nombre": "Muebles",
+            "id": "Muebles"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Estufa industrial",
+        "imagen": "../img/muebles/Estufa Industrial Con 6 Quemadores.webp",
+        "categoria": {
+            "nombre": "Muebles",
+            "id": "Muebles"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Mesa de acero",
+        "imagen": "../img/muebles/mesa.webp",
+        "categoria": {
+            "nombre": "Muebles",
+            "id": "Muebles"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Pack 5 sillas de plastico",
+        "imagen": "../img/muebles/Pack 5 Sillas Plegable Plastico Negro Uso Rudo.webp",
+        "categoria": {
+            "nombre": "Muebles",
+            "id": "Muebles"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Pack 5 sillas acojinadas",
+        "imagen": "../img/muebles/Pack 5 Sillas Plegables Acojinadas.webp",
+        "categoria": {
+            "nombre": "Muebles",
+            "id": "Muebles"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Plancha para tacos",
+        "imagen": "../img/muebles/Plancha Parrilla Comal Tacos Acero Inox Mercainox.webp",
+        "categoria": {
+            "nombre": "Muebles",
+            "id": "Muebles"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Silla de barbero",
+        "imagen": "../img/muebles/Silla Barbero Barberia Salon Estetica.webp",
+        "categoria": {
+            "nombre": "Muebles",
+            "id": "Muebles"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Sillas de terciopelo",
+        "imagen": "../img/muebles/Silla Eames Terciopelo Sin Brazo Tapizada Recto Vintage Minimalista Moderno.webp",
+        "categoria": {
+            "nombre": "Muebles",
+            "id": "Muebles"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "RQQ3D6WBX",
+        "titulo": "Silla para barbero",
+        "imagen": "../img/muebles/Sillon Silla Barbero Barberia.webp",
+        "categoria": {
+            "nombre": "Muebles",
+            "id": "Muebles"
         },
         "precio": 2000
     }
