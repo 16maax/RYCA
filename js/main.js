@@ -1,11 +1,15 @@
 let productosArray = []
 
-fetch("../js/productos.json")
-    .then(response => response.json())
-    .then(data => {
-        productosArray = data
-        cargarProductos(productosArray)
-    })
+axios.get('../js/productos.json')
+  .then(response => {
+    // Obtener los datos de la respuesta
+    const data = response.data;
+    
+    // Hacer algo con los datos obtenidos
+    productosArray = data
+    cargarProductos(productosArray)
+  })
+  .catch(error => console.error(error));
 
 const contenedorProductos = document.querySelector("#contenedor-productos")
 const botonesCategorias = document.querySelectorAll(".boton-categoria")
@@ -19,7 +23,7 @@ function cargarProductos(productosElegidos){
         const div = document.createElement("div")
         div.classList.add("producto")
         div.innerHTML = `
-        <img class="producto-imagen" src="${producto.imagen}" alt="${producto.titulo}" width="400" height="250">
+        <img class="producto-imagen" src="${producto.imagen}" alt="${producto.titulo}" width="400" height="280">
         <div class="producto-detalle">
             <h3 class="producto-titulo">${producto.titulo}</h3>
             <p class="producto-precio">$${producto.precio}</p>

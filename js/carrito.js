@@ -164,10 +164,8 @@ function generarPDF() {
   var productos = JSON.parse(localStorage.getItem("productos-en-carrito"));
 
   var tableContent = [
-
-    ["ID", "Título", "Precio", "Cantidad"],
-
-    ...productos.map((producto) => [producto.id, producto.titulo, producto.precio, producto.cantidad,])
+    ["ID", "Categoría", "Título", "Precio", "Cantidad"],
+    ...productos.map((producto) => [producto.id, producto.categoria.nombre, producto.titulo, producto.precio, producto.cantidad])
   ];
 
   var docDefinition = {

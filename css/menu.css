@@ -107,7 +107,7 @@ main {
 .menu{
     display:flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 1.5rem;
 }
 .boton-menu > i.bi-hand-index-fill,
 .boton-menu > i.bi-hand-index{
