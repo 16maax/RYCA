@@ -28,12 +28,3 @@ btnGuardar.addEventListener("click", function(event) {
 
 localStorage.removeItem('usuarios');
 
-const codigoBarras = document.getElementById('codigo-barras');
-JsBarcode(codigoBarras, "Denominación/Razón Social: REFACCIONAMIENTO Y COMERCIALIZACION PARA LA AUTOMATIZACION");
-JsBarcode(codigoBarras, "Denominación/Razón Social: REFACCIONAMIENTO Y COMERCIALIZACION PARA LA AUTOMATIZACION", {
-  width: 2,
-  height: 30,
-  format: "CODE128",
-  displayValue: true,
-  textPosition: "bottom"
-});

@@ -191,10 +191,10 @@ function generarPDF() {
       { ul: [
         ' Nuestro precio es L.A.B. En ubicación de la obra o en oficinas de nuestro cliente en Aguascalientes, Ags.',
         'Esta cotización incluye solo los Ítems de los equipos mencionados.',
+        'Se requiere el 10% de efectivo del total de tu cotizacion para proceder con la compra.',
         'En caso de cancelaciones en compra de equipos, el cliente deberá pagar un 40% del monto total previa autorización.',
-        'En caso de cancelaciones de trabajos mecánicos o externos, el cliente deberá pagar un 45% del monto total previa autorización.'
       ], style: "terminos" },
-      { text: "Es muy importante tener la orden de compra y cubiertas las condiciones de pago para que comience a correr el tiempo a partir del siguiente día hábil. SI el material es muy urgente favor de indicarlo por correo y vía telefónica para poder dar opciones de entrega y/o de cobro de flete expres", style: "terminos" }
+      { text: "Es muy importante tener la orden de compra y cubiertas las condiciones de pago para que comience a correr el tiempo a partir del siguiente día hábil. SI el material es muy urgente favor de indicarlo por correo y vía telefónica para poder dar opciones de entrega y/o de cobro de flete expres.", style: "terminos" }
     ],
     styles: {
       header: {
