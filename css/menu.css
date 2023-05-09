@@ -44,7 +44,7 @@ aside{
 }
 .text-footer{ 
     color: var(--clr-white);
-    font-size: .85rem;
+    font-size: .60rem;
 }
 main {
     background-color: var(--clr-white);
@@ -107,7 +107,7 @@ main {
 .menu{
     display:flex;
     flex-direction: column;
-    gap: 1.5rem;
+    gap: 1rem;
 }
 .boton-menu > i.bi-hand-index-fill,
 .boton-menu > i.bi-hand-index{

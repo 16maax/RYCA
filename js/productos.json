@@ -2,7 +2,7 @@
     {
         "id": "1",
         "titulo": "Lámpara de uñas de 120 W",
-        "imagen": "../img/belleza/1.jpg",
+        "imagen": "https://m.media-amazon.com/images/I/61iCeLW5GkL._AC_SL1500_.jpg",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -12,7 +12,7 @@
     {
         "id": "2",
         "titulo": "Lámpara Cure Uv/led 48w",
-        "imagen": "../img/belleza/2.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_840364-MLM54974223328_042023-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -22,7 +22,7 @@
     {
         "id": "3",
         "titulo": "Silla Faciales Lashista",
-        "imagen": "../img/belleza/3.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_902200-MLM52272913609_112022-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -32,7 +32,7 @@
     {
         "id": "4",
         "titulo": "Estante Anaquel Rack Repisas",
-        "imagen": "../img/belleza/4.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_996501-MLM50584611161_072022-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -42,7 +42,7 @@
     {
         "id": "5",
         "titulo": "Cama Plegable De Masajes",
-        "imagen": "../img/belleza/5.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_621366-MLM52318896800_112022-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -52,7 +52,7 @@
     {
         "id": "6",
         "titulo": "Silla Faciales Lashista",
-        "imagen": "../img/belleza/6.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_617514-MLM54273601923_032023-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -62,7 +62,7 @@
     {
         "id": "7",
         "titulo": "Aro Luz Led",
-        "imagen": "../img/belleza/7.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_653654-MLM52821646107_122022-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -72,7 +72,7 @@
     {
         "id": "8",
         "titulo": "Lámpara Para Pestaña",
-        "imagen": "../img/belleza/8.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_775245-CBT51869811428_102022-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -82,7 +82,7 @@
     {
         "id": "9",
         "titulo": "Pulidor Esmeril Taladro De Uñas Con Pedal",
-        "imagen": "../img/belleza/9.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_630436-CBT48464093640_122021-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -92,7 +92,7 @@
     {
         "id": "10",
         "titulo": "Depiladora Permanente Láser",
-        "imagen": "../img/belleza/10.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_813729-CBT49416204938_032022-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -102,7 +102,7 @@
     {
         "id": "11",
         "titulo": "Secadora de cabello Revlon",
-        "imagen": "../img/belleza/11.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_932465-MLA52223901178_102022-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -112,7 +112,7 @@
     {
         "id": "12",
         "titulo": "Plancha Para Cabello",
-        "imagen": "../img/belleza/12.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_837565-MLM53927396951_022023-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -122,7 +122,7 @@
     {
         "id": "13",
         "titulo": "Rizadora Cabello Revlon",
-        "imagen": "../img/belleza/13.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_845466-MLM53112136297_122022-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -132,7 +132,7 @@
     {
         "id": "14",
         "titulo": "Secadora de cabello Revlon",
-        "imagen": "../img/belleza/14.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_901293-MLM51943581302_102022-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -142,7 +142,7 @@
     {
         "id": "15",
         "titulo": "Kemei",
-        "imagen": "../img/belleza/15.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_688442-MLA46372663258_062021-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -152,7 +152,7 @@
     {
         "id": "16",
         "titulo": "Máquina Cortapelo Wahl",
-        "imagen": "../img/belleza/16.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_604882-MLM52386724923_112022-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -162,7 +162,7 @@
     {
         "id": "17",
         "titulo": "Secador Cepillo",
-        "imagen": "../img/belleza/17.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_798236-CBT47171267379_082021-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -172,7 +172,7 @@
     {
         "id": "18",
         "titulo": "Capa Cubridor Para Corte",
-        "imagen": "../img/belleza/18.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_861303-MLM51506872626_092022-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -182,7 +182,7 @@
     {
         "id": "19",
         "titulo": "Calentadores De Cera",
-        "imagen": "../img/belleza/19.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_812809-MLM51268333939_082022-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -192,7 +192,7 @@
     {
         "id": "20",
         "titulo": "Rizadora De Cabello 3 Tubos",
-        "imagen": "../img/belleza/20.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_867874-CBT51460870373_092022-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
@@ -202,7 +202,7 @@
     {
         "id": "21",
         "titulo": "Hielera",
-        "imagen": "../img/cocina/1.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_929505-MLM69139221418_042023-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -212,7 +212,7 @@
     {
         "id": "22",
         "titulo": "Batería De Cocina Ekco",
-        "imagen": "../img/cocina/2.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_958306-MLA52222528531_102022-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -222,7 +222,7 @@
     {
         "id": "23",
         "titulo": "Utensilios Silicona De Cocina",
-        "imagen": "../img/cocina/3.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_674379-CBT49616182896_042022-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -232,7 +232,7 @@
     {
         "id": "24",
         "titulo": "Juego De Cubiertos De Acero Inoxidable",
-        "imagen": "../img/cocina/4.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_893408-CBT51319318327_082022-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -242,7 +242,7 @@
     {
         "id": "25",
         "titulo": "Juego Cuchillos Tramontina",
-        "imagen": "../img/cocina/5.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_636410-MLA45806967738_052021-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -252,7 +252,7 @@
     {
         "id": "26",
         "titulo": "Juego De Cuchillos 7 Pz",
-        "imagen": "../img/cocina/6.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_978917-CBT48738438654_012022-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -262,7 +262,7 @@
     {
         "id": "27",
         "titulo": "Cazo Para Carnitas",
-        "imagen": "../img/cocina/7.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_669606-MLM54130443287_032023-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -272,7 +272,7 @@
     {
         "id": "28",
         "titulo": "6 Barril Vitroleros",
-        "imagen": "../img/cocina/8.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_816698-MLM50793467857_072022-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -282,7 +282,7 @@
     {
         "id": "29",
         "titulo": "Horno De 4 Charolas",
-        "imagen": "../img/cocina/9.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_877424-MLM31223625679_062019-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -292,7 +292,7 @@
     {
         "id": "30",
         "titulo": "Juego de Sartenes Antiadherentes",
-        "imagen": "../img/cocina/10.webp",
+        "imagen": "https://i.linio.com/p/cae1b16b2f14faca36a956e0d07fc9f9-product.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -302,7 +302,7 @@
     {
         "id": "31",
         "titulo": "Wafflera Belga",
-        "imagen": "../img/cocina/11.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_738661-MLM51377803208_092022-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -312,7 +312,7 @@
     {
         "id": "32",
         "titulo": "Freidora De Aire Weyon",
-        "imagen": "../img/cocina/12.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_856263-CBT54966160708_042023-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -322,7 +322,7 @@
     {
         "id": "33",
         "titulo": "Parrilla De Gas",
-        "imagen": "../img/cocina/13.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_603843-MLA44445156877_122020-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -332,7 +332,7 @@
     {
         "id": "34",
         "titulo": "Tanque De Gas",
-        "imagen": "../img/cocina/14.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_867513-MLM52855134704_122022-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -342,7 +342,7 @@
     {
         "id": "35",
         "titulo": "Freidora De Aire Weyon",
-        "imagen": "../img/cocina/15.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_882535-CBT53238451585_012023-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -352,7 +352,7 @@
     {
         "id": "36",
         "titulo": "Freidora De Aire Weyon",
-        "imagen": "../img/cocina/16.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_784575-CBT50427352666_062022-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -362,7 +362,7 @@
     {
         "id": "37",
         "titulo": "Freidora De Aire Weyon",
-        "imagen": "../img/cocina/17.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_787007-MLM52883388599_122022-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -372,7 +372,7 @@
     {
         "id": "38",
         "titulo": "Freidora De Aire Weyon",
-        "imagen": "../img/cocina/18.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_870860-MLM52549314765_112022-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -382,7 +382,7 @@
     {
         "id": "39",
         "titulo": "Freidora De Aire Weyon",
-        "imagen": "../img/cocina/19.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_998650-CBT49651174999_042022-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -392,7 +392,7 @@
     {
         "id": "40",
         "titulo": "Freidora De Aire Weyon",
-        "imagen": "../img/cocina/20.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_964882-MLM31234860375_062019-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -402,7 +402,7 @@
     {
         "id": "41",
         "titulo": "Batidora De Inmersión",
-        "imagen": "../img/electrodomesticos/1.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_984473-CBT52462600703_112022-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
@@ -412,7 +412,7 @@
     {
         "id": "42",
         "titulo": "Extractor Turmix",
-        "imagen": "../img/electrodomesticos/2.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_681889-MLM52899107356_122022-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
@@ -422,7 +422,7 @@
     {
         "id": "43",
         "titulo": "Licuadora Oster",
-        "imagen": "../img/electrodomesticos/3.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_740209-MLM50171029243_062022-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
@@ -432,7 +432,7 @@
     {
         "id": "44",
         "titulo": "Licuadora De Inmersión",
-        "imagen": "../img/electrodomesticos/4.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_663730-CBT51644746919_092022-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
@@ -442,7 +442,7 @@
     {
         "id": "45",
         "titulo": "Máquina De Mini Donas",
-        "imagen": "../img/electrodomesticos/5.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_845856-MLM54692116160_032023-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
@@ -452,7 +452,7 @@
     {
         "id": "46",
         "titulo": "Freidora De Aceite Eléctrica",
-        "imagen": "../img/electrodomesticos/6.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_661668-MLM54367236883_032023-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
@@ -462,7 +462,7 @@
     {
         "id": "47",
         "titulo": "Licuadora Taurus",
-        "imagen": "../img/electrodomesticos/7.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_704344-MLA51841980092_102022-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
@@ -472,7 +472,7 @@
     {
         "id": "48",
         "titulo": "Licuadora Infinyforce",
-        "imagen": "../img/electrodomesticos/8.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_617381-MLM53009471732_122022-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
@@ -482,7 +482,7 @@
     {
         "id": "49",
         "titulo": "Freidora De Aire",
-        "imagen": "../img/electrodomesticos/9.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_834180-CBT54254630557_032023-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
@@ -492,7 +492,7 @@
     {
         "id": "50",
         "titulo": "Lavadora Midea Doble Tina",
-        "imagen": "../img/electrodomesticos/10.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_928744-MLU54965238025_042023-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
@@ -502,7 +502,7 @@
     {
         "id": "51",
         "titulo": "Laminadora Enmicadora",
-        "imagen": "../img/electrodomesticos/11.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_877194-CBT48788528981_012022-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
@@ -512,7 +512,7 @@
     {
         "id": "52",
         "titulo": "Laminadora Enmicadora Térmica",
-        "imagen": "../img/electrodomesticos/12.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_934426-CBT52956537476_122022-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
@@ -522,7 +522,7 @@
     {
         "id": "53",
         "titulo": "Máquina de coser",
-        "imagen": "../img/electrodomesticos/13.webp",
+        "imagen": "https://i.linio.com/p/303b8eff2c1c34f4e6da9d672c67042a-product.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
@@ -532,7 +532,7 @@
     {
         "id": "54",
         "titulo": "Horno de Microondas",
-        "imagen": "../img/electrodomesticos/14.webp",
+        "imagen": "https://i.linio.com/p/93529b4734dce60077fb6e3c16d5e0ca-product.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
@@ -542,7 +542,7 @@
     {
         "id": "55",
         "titulo": "Licuadora Con Sistema De Procesador Ninja",
-        "imagen": "../img/electrodomesticos/15.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_781268-CBT53093895258_122022-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
@@ -552,7 +552,7 @@
     {
         "id": "56",
         "titulo": "Refrigerador Samsung",
-        "imagen": "../img/electrodomesticos/16.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_882619-MLA52218289407_102022-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
@@ -562,7 +562,7 @@
     {
         "id": "57",
         "titulo": "Refrigerador Mabe",
-        "imagen": "../img/electrodomesticos/17.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_912228-MLA49866477381_052022-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
@@ -572,7 +572,7 @@
     {
         "id": "58",
         "titulo": "Enfriador De Aire Acondicionado",
-        "imagen": "../img/electrodomesticos/18.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_993058-MLM54418975055_032023-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
@@ -582,7 +582,7 @@
     {
         "id": "59",
         "titulo": "Parrilla De Gas",
-        "imagen": "../img/electrodomesticos/19.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_603843-MLA44445156877_122020-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
@@ -592,7 +592,7 @@
     {
         "id": "60",
         "titulo": "Freidora De Aire Weyon",
-        "imagen": "../img/electrodomesticos/20.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_856263-CBT54966160708_042023-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
@@ -602,7 +602,7 @@
     {
         "id": "61",
         "titulo": "Laptop Lenovo IdeaPad D330",
-        "imagen": "../img/electronica/1.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_704222-MLA51800140970_102022-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
@@ -612,7 +612,7 @@
     {
         "id": "62",
         "titulo": "Laptop Lenovo Ideapad 3 Intel",
-        "imagen": "../img/electronica/2.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_615042-MLM54052648356_022023-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
@@ -622,7 +622,7 @@
     {
         "id": "63",
         "titulo": "Impresora Multifunción Epson",
-        "imagen": "../img/electronica/3.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_782465-MLA48195968990_112021-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
@@ -632,7 +632,7 @@
     {
         "id": "64",
         "titulo": "Tablet Samsung Galaxy",
-        "imagen": "../img/electronica/4.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_783986-MLA47146625905_082021-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
@@ -642,7 +642,7 @@
     {
         "id": "65",
         "titulo": "Xiaomi Redmi 10C Dual",
-        "imagen": "../img/electronica/5.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_712361-MLA50342739146_062022-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
@@ -652,7 +652,7 @@
     {
         "id": "66",
         "titulo": "Bocina Select Sound BT220",
-        "imagen": "../img/electronica/6.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_956212-MLA41363099629_042020-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
@@ -662,7 +662,7 @@
     {
         "id": "67",
         "titulo": "Pantalla 40 Vidaa Hisense",
-        "imagen": "../img/electronica/7.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_879300-MLM54958665781_042023-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
@@ -672,7 +672,7 @@
     {
         "id": "68",
         "titulo": "Google Chromecast 3ª generación",
-        "imagen": "../img/electronica/8.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_909937-MLA32790540204_112019-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
@@ -682,7 +682,7 @@
     {
         "id": "69",
         "titulo": "Pantalla Onn 24",
-        "imagen": "../img/electronica/9.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_999758-MLM54916313103_042023-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
@@ -692,7 +692,7 @@
     {
         "id": "70",
         "titulo": "Televisor Tcl",
-        "imagen": "../img/electronica/10.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_861459-MLM51638431765_092022-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
@@ -702,7 +702,7 @@
     {
         "id": "71",
         "titulo": "Xiaomi Redmi Note 11E",
-        "imagen": "../img/electronica/11.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_918835-MLA54127214845_032023-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
@@ -712,7 +712,7 @@
     {
         "id": "72",
         "titulo": "Lavadora Semiautomática De Doble Tina",
-        "imagen": "../img/electronica/12.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_918340-MLA43122777618_082020-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
@@ -722,7 +722,7 @@
     {
         "id": "73",
         "titulo": "Cpu Dell Optiplex Intel Core I3",
-        "imagen": "../img/electronica/13.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_979575-MLM52238962186_112022-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
@@ -732,7 +732,7 @@
     {
         "id": "74",
         "titulo": "Bocina Tronsmart Trip",
-        "imagen": "../img/electronica/14.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_659854-MLM50184337470_062022-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
@@ -742,7 +742,7 @@
     {
         "id": "75",
         "titulo": "Amazon Echo Dot 5th Gen",
-        "imagen": "../img/electronica/15.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_857602-MLA52316805154_112022-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
@@ -752,7 +752,7 @@
     {
         "id": "76",
         "titulo": "Ratón Mouse Silencioso",
-        "imagen": "../img/electronica/16.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_948929-MLM50619764014_072022-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
@@ -762,7 +762,7 @@
     {
         "id": "17",
         "titulo": "Teclado Ele-Gate",
-        "imagen": "../img/electronica/17.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_785312-MLA43703873397_102020-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
@@ -772,7 +772,7 @@
     {
         "id": "78",
         "titulo": "Audífonos Inalámbricos Lenovo",
-        "imagen": "../img/electronica/18.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_766219-MLA53988745883_022023-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
@@ -782,7 +782,7 @@
     {
         "id": "79",
         "titulo": "Oneodio Pro10",
-        "imagen": "../img/electronica/19.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_795272-CBT50328584028_062022-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
@@ -792,7 +792,7 @@
     {
         "id": "80",
         "titulo": "Impresora Láser Hp",
-        "imagen": "../img/electronica/20.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_706687-MLM49277642917_032022-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
@@ -802,7 +802,7 @@
     {
         "id": "81",
         "titulo": "Sillon Silla Barbero",
-        "imagen": "../img/muebles/1.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_654026-MLM52111644408_102022-F.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
@@ -812,7 +812,7 @@
     {
         "id": "82",
         "titulo": "Mesa En Isla",
-        "imagen": "../img/muebles/2.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_899412-MLM50159567840_062022-F.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
@@ -822,7 +822,7 @@
     {
         "id": "83",
         "titulo": "Anaquel Estante Metálico",
-        "imagen": "../img/muebles/3.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_834702-MLM49972115844_052022-F.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
@@ -832,7 +832,7 @@
     {
         "id": "84",
         "titulo": "Pack 5 Sillas Plegable Plastico",
-        "imagen": "../img/muebles/4.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_900950-MLM46570494381_062021-F.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
@@ -842,7 +842,7 @@
     {
         "id": "85",
         "titulo": "Silla Eames Terciopelo",
-        "imagen": "../img/muebles/5.webp",
+        "imagen": "https://i.linio.com/p/49e8a8a3b2f393311eb0c0fba4d7739b-product.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
@@ -852,7 +852,7 @@
     {
         "id": "86",
         "titulo": "Carrito Organizador",
-        "imagen": "../img/muebles/6.webp",
+        "imagen": "https://i.linio.com/p/9af4650a6ca21c920d4072cb57c136a7-product.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
@@ -862,7 +862,7 @@
     {
         "id": "87",
         "titulo": "Sillon Barbero",
-        "imagen": "../img/muebles/7.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_673064-MLM48873188946_012022-F.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
@@ -872,7 +872,7 @@
     {
         "id": "88",
         "titulo": "Set De 4 Sillas Eames",
-        "imagen": "../img/muebles/8.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_671944-MLM54925039809_042023-F.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
@@ -882,7 +882,7 @@
     {
         "id": "89",
         "titulo": "Mueble Para Estetica",
-        "imagen": "../img/muebles/9.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_724767-MLM49324521089_032022-F.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
@@ -892,7 +892,7 @@
     {
         "id": "90",
         "titulo": "Pack 5 Sillas Plegables Lifetime",
-        "imagen": "../img/muebles/10.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_627813-MLM54968545450_042023-F.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
@@ -902,7 +902,7 @@
     {
         "id": "91",
         "titulo": "Banco Adaptador Para Niños",
-        "imagen": "../img/muebles/11.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_709084-MLM46986979336_082021-F.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
@@ -912,7 +912,7 @@
     {
         "id": "92",
         "titulo": "Lavamanos Portátil",
-        "imagen": "../img/muebles/12.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_812467-MLM52731930524_122022-F.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
@@ -922,7 +922,7 @@
     {
         "id": "93",
         "titulo": "Resel Set Sombrilla",
-        "imagen": "../img/muebles/13.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_727821-MLM54783648026_032023-F.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
@@ -932,7 +932,7 @@
     {
         "id": "94",
         "titulo": "Cafetera Taurus",
-        "imagen": "../img/muebles/14.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_952322-MLA40507659097_012020-F.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
@@ -942,7 +942,7 @@
     {
         "id": "95",
         "titulo": "Maniqui Torso",
-        "imagen": "../img/muebles/15.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_934407-MLM53813240416_022023-F.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
@@ -952,7 +952,7 @@
     {
         "id": "96",
         "titulo": "Maniqui Exhibidor",
-        "imagen": "../img/muebles/16.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_611488-MLM50974522121_082022-F.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
@@ -962,7 +962,7 @@
     {
         "id": "97",
         "titulo": "Vitrina Mostrador",
-        "imagen": "../img/muebles/17.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_669380-MLM43787045771_102020-F.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
@@ -972,7 +972,7 @@
     {
         "id": "98",
         "titulo": "Banco Resistente",
-        "imagen": "../img/muebles/18.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_858220-MLM53498313156_012023-F.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
@@ -982,7 +982,7 @@
     {
         "id": "99",
         "titulo": "Locker Metalico 5 Puerta",
-        "imagen": "../img/muebles/19.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_703138-MLM53369297106_012023-F.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
@@ -992,7 +992,7 @@
     {
         "id": "100",
         "titulo": "Escritorio L Escuadra",
-        "imagen": "../img/muebles/20.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_778382-MLM47900602423_102021-F.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
