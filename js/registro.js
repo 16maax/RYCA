@@ -1,6 +1,7 @@
 const btnGuardar = document.getElementById("guardar");
 
 btnGuardar.addEventListener("click", function(event) {
+  /*alert("¡Se guardo tu informacion!");*/
 
   event.preventDefault();
   
