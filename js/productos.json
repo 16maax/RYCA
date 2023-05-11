@@ -7,7 +7,7 @@
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 1500
+        "precio": 479.99
     },
     {
         "id": "2",
@@ -17,7 +17,7 @@
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 1800
+        "precio": 2002.80
     },
     {
         "id": "3",
@@ -27,17 +27,17 @@
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 2000
+        "precio": 5034.00
     },
     {
         "id": "4",
-        "titulo": "Estante Anaquel Rack Repisas",
+        "titulo": "Sillon Barbero Peluqueria",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_996501-MLM50584611161_072022-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 2000
+        "precio": 7485.60
     },
     {
         "id": "5",
@@ -47,17 +47,17 @@
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 2000
+        "precio": 2365.20
     },
     {
         "id": "6",
-        "titulo": "Silla Faciales Lashista",
+        "titulo": "Cama Para Faciales",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_617514-MLM54273601923_032023-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 2000
+        "precio": 5878.80
     },
     {
         "id": "7",
@@ -67,7 +67,7 @@
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 2000
+        "precio": 2400.00
     },
     {
         "id": "8",
@@ -77,7 +77,7 @@
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 2000
+        "precio": 3522.00
     },
     {
         "id": "9",
@@ -87,7 +87,7 @@
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 2000
+        "precio": 1077.66
     },
     {
         "id": "10",
@@ -97,7 +97,7 @@
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 2000
+        "precio": 1417.20
     },
     {
         "id": "11",
@@ -107,7 +107,7 @@
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 2000
+        "precio": 838.80
     },
     {
         "id": "12",
@@ -117,7 +117,7 @@
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 2000
+        "precio": 1638.80
     },
     {
         "id": "13",
@@ -127,17 +127,17 @@
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 2000
+        "precio": 568.80
     },
     {
         "id": "14",
-        "titulo": "Secadora de cabello Revlon",
+        "titulo": "Máquina Para Cortar Cabello",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_901293-MLM51943581302_102022-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 2000
+        "precio": 108.00
     },
     {
         "id": "15",
@@ -147,7 +147,7 @@
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 2000
+        "precio": 691.20
     },
     {
         "id": "16",
@@ -157,7 +157,7 @@
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 2000
+        "precio": 2486.40
     },
     {
         "id": "17",
@@ -167,7 +167,7 @@
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 2000
+        "precio": 430.80
     },
     {
         "id": "18",
@@ -177,7 +177,7 @@
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 2000
+        "precio": 118.80
     },
     {
         "id": "19",
@@ -187,7 +187,7 @@
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 2000
+        "precio": 249.60
     },
     {
         "id": "20",
@@ -197,7 +197,7 @@
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 2000
+        "precio": 279.60
     },
     {
         "id": "21",
@@ -207,7 +207,7 @@
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 2000
+        "precio": 1438.80
     },
     {
         "id": "22",
@@ -217,7 +217,7 @@
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 2000
+        "precio": 1798.80
     },
     {
         "id": "23",
@@ -227,7 +227,7 @@
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 2000
+        "precio": 316.80
     },
     {
         "id": "24",
@@ -237,7 +237,7 @@
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 2000
+        "precio": 415.20
     },
     {
         "id": "25",
@@ -247,7 +247,7 @@
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 2000
+        "precio": 358.80
     },
     {
         "id": "26",
@@ -257,7 +257,7 @@
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 2000
+        "precio": 249.60
     },
     {
         "id": "27",
@@ -267,7 +267,7 @@
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 2000
+        "precio": 479.99
     },
     {
         "id": "28",
@@ -277,7 +277,7 @@
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 2000
+        "precio": 1618.80
     },
     {
         "id": "29",
@@ -287,7 +287,7 @@
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 2000
+        "precio": 8338.80
     },
     {
         "id": "30",
@@ -297,7 +297,7 @@
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 2000
+        "precio": 1678.80
     },
     {
         "id": "31",
@@ -307,7 +307,7 @@
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 2000
+        "precio": 1195.20
     },
     {
         "id": "32",
@@ -317,7 +317,7 @@
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 2000
+        "precio": 940.80
     },
     {
         "id": "33",
@@ -327,7 +327,7 @@
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 2000
+        "precio": 2955.60
     },
     {
         "id": "34",
@@ -337,67 +337,67 @@
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 2000
+        "precio": 1743.60
     },
     {
         "id": "35",
-        "titulo": "Freidora De Aire Weyon",
+        "titulo": "Guantes Para Cocina",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_882535-CBT53238451585_012023-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 2000
+        "precio": 166.80
     },
     {
         "id": "36",
-        "titulo": "Freidora De Aire Weyon",
+        "titulo": "Guantes Para Cocina De Silicona",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_784575-CBT50427352666_062022-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 2000
+        "precio": 302.40
     },
     {
         "id": "37",
-        "titulo": "Freidora De Aire Weyon",
+        "titulo": "Vaso Térmico Portátil De Acero",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_787007-MLM52883388599_122022-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 2000
+        "precio": 162.00
     },
     {
         "id": "38",
-        "titulo": "Freidora De Aire Weyon",
+        "titulo": "Plato Redondo Plástico 25 Cms",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_870860-MLM52549314765_112022-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 2000
+        "precio": 69.60
     },
     {
         "id": "39",
-        "titulo": "Freidora De Aire Weyon",
+        "titulo": "Kit Para Reposteria",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_998650-CBT49651174999_042022-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 2000
+        "precio": 825.60
     },
     {
         "id": "40",
-        "titulo": "Freidora De Aire Weyon",
+        "titulo": "Porta Charolas Salseras",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_964882-MLM31234860375_062019-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 2000
+        "precio": 4548.00
     },
     {
         "id": "41",
@@ -407,7 +407,7 @@
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 2000
+        "precio": 380.40
     },
     {
         "id": "42",
@@ -417,27 +417,27 @@
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 2000
+        "precio": 3478.80
     },
     {
         "id": "43",
-        "titulo": "Licuadora Oster",
+        "titulo": "Licuadora Para Cocina Lagom",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_740209-MLM50171029243_062022-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 2000
+        "precio": 1044.00
     },
     {
         "id": "44",
-        "titulo": "Licuadora De Inmersión",
+        "titulo": "Licuadora De Inmersión Portátil",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_663730-CBT51644746919_092022-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 2000
+        "precio": 866.40
     },
     {
         "id": "45",
@@ -447,7 +447,7 @@
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 2000
+        "precio": 1257.60
     },
     {
         "id": "46",
@@ -457,17 +457,17 @@
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 2000
+        "precio": 3110.40
     },
     {
         "id": "47",
-        "titulo": "Licuadora Taurus",
+        "titulo": "Licuadora Ninja Professional",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_704344-MLA51841980092_102022-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 2000
+        "precio": 2398.80
     },
     {
         "id": "48",
@@ -477,7 +477,7 @@
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 2000
+        "precio": 1078.80
     },
     {
         "id": "49",
@@ -487,7 +487,7 @@
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 2000
+        "precio": 2254.80
     },
     {
         "id": "50",
@@ -497,7 +497,7 @@
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 2000
+        "precio": 5810.40
     },
     {
         "id": "51",
@@ -507,7 +507,7 @@
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 2000
+        "precio": 817.20
     },
     {
         "id": "52",
@@ -517,7 +517,7 @@
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 2000
+        "precio": 1203.60
     },
     {
         "id": "53",
@@ -527,7 +527,7 @@
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 2000
+        "precio": 4683.60
     },
     {
         "id": "54",
@@ -537,17 +537,17 @@
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 2000
+        "precio": 4047.60
     },
     {
         "id": "55",
-        "titulo": "Licuadora Con Sistema De Procesador Ninja",
+        "titulo": "Freidora De Aceite Eléctrica",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_781268-CBT53093895258_122022-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 2000
+        "precio": 1305.60
     },
     {
         "id": "56",
@@ -557,7 +557,7 @@
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 2000
+        "precio": 11998.80
     },
     {
         "id": "57",
@@ -567,7 +567,7 @@
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 2000
+        "precio": 11710.80
     },
     {
         "id": "58",
@@ -577,17 +577,17 @@
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 2000
+        "precio": 718.80
     },
     {
         "id": "59",
         "titulo": "Parrilla De Gas",
-        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_603843-MLA44445156877_122020-F.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_699681-MLA48849771669_012022-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 2000
+        "precio": 418.80
     },
     {
         "id": "60",
@@ -597,7 +597,7 @@
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 2000
+        "precio": 940.80
     },
     {
         "id": "61",
@@ -607,7 +607,7 @@
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 2000
+        "precio": 5998.80
     },
     {
         "id": "62",
@@ -617,7 +617,7 @@
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 2000
+        "precio": 7798.80
     },
     {
         "id": "63",
@@ -627,7 +627,7 @@
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 2000
+        "precio": 5878.80
     },
     {
         "id": "64",
@@ -637,7 +637,7 @@
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 2000
+        "precio": 3478.80
     },
     {
         "id": "65",
@@ -647,7 +647,7 @@
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 2000
+        "precio": 2385.60
     },
     {
         "id": "66",
@@ -657,7 +657,7 @@
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 2000
+        "precio": 639.60
     },
     {
         "id": "67",
@@ -667,7 +667,7 @@
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 2000
+        "precio": 6361.20
     },
     {
         "id": "68",
@@ -677,7 +677,7 @@
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 2000
+        "precio": 670.80
     },
     {
         "id": "69",
@@ -687,7 +687,7 @@
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 2000
+        "precio": 2493.60
     },
     {
         "id": "70",
@@ -697,7 +697,7 @@
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 2000
+        "precio": 7678.80
     },
     {
         "id": "71",
@@ -707,7 +707,7 @@
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 2000
+        "precio": 6097.20
     },
     {
         "id": "72",
@@ -717,7 +717,7 @@
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 2000
+        "precio": 10306.80
     },
     {
         "id": "73",
@@ -727,7 +727,7 @@
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 2000
+        "precio": 4320.00
     },
     {
         "id": "74",
@@ -737,7 +737,7 @@
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 2000
+        "precio": 432.00
     },
     {
         "id": "75",
@@ -747,7 +747,7 @@
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 2000
+        "precio": 1186.80
     },
     {
         "id": "76",
@@ -757,7 +757,7 @@
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 2000
+        "precio": 146.40
     },
     {
         "id": "17",
@@ -767,7 +767,7 @@
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 2000
+        "precio": 128.40
     },
     {
         "id": "78",
@@ -777,7 +777,7 @@
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 2000
+        "precio": 188.40
     },
     {
         "id": "79",
@@ -787,7 +787,7 @@
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 2000
+        "precio": 775.20
     },
     {
         "id": "80",
@@ -797,7 +797,7 @@
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 2000
+        "precio": 3238.80
     },
     {
         "id": "81",
@@ -807,7 +807,7 @@
             "nombre": "Muebles",
             "id": "Muebles"
         },
-        "precio": 2000
+        "precio": 3946.80
     },
     {
         "id": "82",
@@ -817,7 +817,7 @@
             "nombre": "Muebles",
             "id": "Muebles"
         },
-        "precio": 2000
+        "precio": 2806.92
     },
     {
         "id": "83",
@@ -827,7 +827,7 @@
             "nombre": "Muebles",
             "id": "Muebles"
         },
-        "precio": 2000
+        "precio": 2518.80
     },
     {
         "id": "84",
@@ -837,7 +837,7 @@
             "nombre": "Muebles",
             "id": "Muebles"
         },
-        "precio": 2000
+        "precio": 2274.00
     },
     {
         "id": "85",
@@ -847,7 +847,7 @@
             "nombre": "Muebles",
             "id": "Muebles"
         },
-        "precio": 2000
+        "precio": 1078.80
     },
     {
         "id": "86",
@@ -857,7 +857,7 @@
             "nombre": "Muebles",
             "id": "Muebles"
         },
-        "precio": 2000
+        "precio": 1678.80
     },
     {
         "id": "87",
@@ -867,7 +867,7 @@
             "nombre": "Muebles",
             "id": "Muebles"
         },
-        "precio": 2000
+        "precio": 886.80
     },
     {
         "id": "88",
@@ -877,7 +877,7 @@
             "nombre": "Muebles",
             "id": "Muebles"
         },
-        "precio": 2000
+        "precio": 1738.80
     },
     {
         "id": "89",
@@ -887,7 +887,7 @@
             "nombre": "Muebles",
             "id": "Muebles"
         },
-        "precio": 2000
+        "precio": 1198.80
     },
     {
         "id": "90",
@@ -897,7 +897,7 @@
             "nombre": "Muebles",
             "id": "Muebles"
         },
-        "precio": 2000
+        "precio": 4072.80
     },
     {
         "id": "91",
@@ -907,7 +907,7 @@
             "nombre": "Muebles",
             "id": "Muebles"
         },
-        "precio": 2000
+        "precio": 696.00
     },
     {
         "id": "92",
@@ -917,7 +917,7 @@
             "nombre": "Muebles",
             "id": "Muebles"
         },
-        "precio": 2000
+        "precio": 2340.00
     },
     {
         "id": "93",
@@ -927,7 +927,7 @@
             "nombre": "Muebles",
             "id": "Muebles"
         },
-        "precio": 2000
+        "precio": 2398.80
     },
     {
         "id": "94",
@@ -937,7 +937,7 @@
             "nombre": "Muebles",
             "id": "Muebles"
         },
-        "precio": 2000
+        "precio": 513.60
     },
     {
         "id": "95",
@@ -947,7 +947,7 @@
             "nombre": "Muebles",
             "id": "Muebles"
         },
-        "precio": 2000
+        "precio": 1860.00
     },
     {
         "id": "96",
@@ -957,7 +957,7 @@
             "nombre": "Muebles",
             "id": "Muebles"
         },
-        "precio": 2000
+        "precio": 156.00
     },
     {
         "id": "97",
@@ -967,7 +967,7 @@
             "nombre": "Muebles",
             "id": "Muebles"
         },
-        "precio": 2000
+        "precio": 7080.00
     },
     {
         "id": "98",
@@ -977,7 +977,7 @@
             "nombre": "Muebles",
             "id": "Muebles"
         },
-        "precio": 2000
+        "precio": 1198.80
     },
     {
         "id": "99",
@@ -987,7 +987,7 @@
             "nombre": "Muebles",
             "id": "Muebles"
         },
-        "precio": 2000
+        "precio": 3180.00
     },
     {
         "id": "100",
@@ -997,6 +997,6 @@
             "nombre": "Muebles",
             "id": "Muebles"
         },
-        "precio": 2000
+        "precio": 2151.60
     }
 ]
