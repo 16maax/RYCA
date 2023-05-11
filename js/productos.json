@@ -141,7 +141,7 @@
     },
     {
         "id": "15",
-        "titulo": "Kemei",
+        "titulo": "Rasuradora Kemei",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_688442-MLA46372663258_062021-F.webp",
         "categoria": {
             "nombre": "Belleza",
@@ -931,8 +931,8 @@
     },
     {
         "id": "94",
-        "titulo": "Cafetera Taurus",
-        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_952322-MLA40507659097_012020-F.webp",
+        "titulo": "Lavabo Portatil Cabello",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_829087-MLM31935855638_082019-F.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
