@@ -239,3 +239,216 @@ docDefinition.content.unshift({ image: barcodeImg, width: 150, alignment: "cente
 
   pdfMake.createPdf(docDefinition).open();
 }
+
+
+function generarPDF2() {
+
+  const fecha = new Date().toLocaleString('es-MX');
+
+  let usuarios = JSON.parse(localStorage.getItem("usuarios"));
+  if (usuarios === null) {
+    usuarios = [];
+  }
+
+  var tableConten = [  ["Nombre", "CURP", "Tel. Celular", "Correo"],
+  ...usuarios.map((usuario) => [usuario.nombre, usuario.curp, usuario.telefono, usuario.correo])
+];
+
+  const totalCalculado = productosEnCarrito.reduce((acc, producto) => acc + (producto.precio * producto.cantidad), 0);
+
+  var productos = JSON.parse(localStorage.getItem("productos-en-carrito"));
+
+  var tableContent = [
+    ["ID", "Categoría", "Título", "Cantidad", "Precio"],
+    ...productos.map((producto) => [producto.id, producto.categoria.nombre, producto.titulo, producto.cantidad, "$" + producto.precio])
+  ];
+
+  var docDefinition = {
+    content: [
+      /*{ text: "Id: "+ uniqueId, style: "body"},*/
+      { text: fecha, style: "fecha" },
+      { text: "Denominación/Razón Social: REFACCIONAMIENTO Y COMERCIALIZACION PARA LA AUTOMATIZACION", style: "contacto" },
+      { text: "Bodega: PROL. AV. PASEOS DE LA ASUNCION #2049, Fracc. Villas de Santa Rosa C.P. 20284", style: "contacto" },
+      { text: "Oficina: FRANCISCO G . HORNEDO #231, Zona Centro C.P. 20000", style: "contacto" },
+      { text: "Tel. Celular: 4496555878", style: "contacto" }, 
+      { text: "WhatsApp: 4491564905", style: "contacto" },
+      { text: "RFC: RCA151118120", style: "contacto" },
+      { text: "Cotizacion", style: "header", alignment: "center" },
+      { text: "Usuario registrado", style: "body" },
+      { table: { body: tableConten, style: "body" } },
+      { text: "Productos en carrito", style: "body"},
+      { table: { body: tableContent, style: "body"} },
+      { text: "Total: $" + totalCalculado, style: "body" },
+      { text: "Términos comerciales:", alignment: 'center', style: "body" },
+      { text: "Precios:", style: "body"},
+      { ul: [
+        ' Nuestro precio es L.A.B. En ubicación de la obra o en oficinas de nuestro cliente en Aguascalientes, Ags.',
+        'Esta cotización incluye solo los Ítems de los equipos mencionados.',
+        'Se requiere el 10% de efectivo del total de tu cotizacion para proceder con la compra, si esta es menor a $11,000.00 MNX, en caso de exceder este monto se requerira cubrir el monto excedente en efectivo.',
+        'En caso de cancelaciones en compra de equipos, el cliente deberá pagar un 40% del monto total previa autorización.',
+      ], style: "terminos" },
+      { text: "Es muy importante tener la orden de compra y cubiertas las condiciones de pago para que comience a correr el tiempo de entrega, mismos que dará la Secretaría de Desarrollo Económico, Ciencia y Tecnología del Estado de Aguascalientes.", style: "terminos" }
+    ],
+    styles: {
+      header: {
+        fontSize: 15,
+        bold: true,
+        margin: [0, 0, 0, 10]
+      },
+      fecha: {
+        fontSize: 10,
+        bold: true,
+        alignment: "right"
+      },
+      body: {
+        fontSize: 12,
+        bold: true,
+        margin: [0, 8, 0, 8]
+      },
+      terminos: {
+        fontSize: 11,
+        bold: false,
+        margin: [0, 8, 0, 8]
+      },
+      contacto: {
+        fontSize: 10,
+        bold: false,
+        margin: [0, 0, 0, 0],
+        alignment: "right"
+      }
+    }
+  };
+
+  // Obtener la CURP del primer usuario en la lista
+const curp = usuarios[0].curp;
+
+// Crear un elemento HTML "canvas" para dibujar el código de barras
+const canvas = document.createElement("canvas");
+
+// Generar el código de barras y dibujarlo en el canvas
+JsBarcode(canvas, curp, {
+  format: "CODE128",
+  displayValue: false,
+  height: 30,
+  margin: 0,
+  textMargin: 0
+});
+
+// Obtener la imagen del canvas como una cadena base64
+const barcodeImg = canvas.toDataURL();
+
+// Agregar la imagen del código de barras al objeto "docDefinition"
+docDefinition.content.unshift({ image: barcodeImg, width: 150, alignment: "center" });
+
+  pdfMake.createPdf(docDefinition).open();
+}
+
+
+function generarPDF3() {
+
+  const fecha = new Date().toLocaleString('es-MX');
+
+  let usuarios = JSON.parse(localStorage.getItem("usuarios"));
+  if (usuarios === null) {
+    usuarios = [];
+  }
+
+  var tableConten = [  ["Nombre", "CURP", "Tel. Celular", "Correo"],
+  ...usuarios.map((usuario) => [usuario.nombre, usuario.curp, usuario.telefono, usuario.correo])
+];
+
+  const totalCalculado = productosEnCarrito.reduce((acc, producto) => acc + (producto.precio * producto.cantidad), 0);
+
+  var productos = JSON.parse(localStorage.getItem("productos-en-carrito"));
+
+  var tableContent = [
+    ["ID", "Categoría", "Título", "Cantidad", "Precio"],
+    ...productos.map((producto) => [producto.id, producto.categoria.nombre, producto.titulo, producto.cantidad, "$" + producto.precio])
+  ];
+
+  var docDefinition = {
+    content: [
+      /*{ text: "Id: "+ uniqueId, style: "body"},*/
+      { text: fecha, style: "fecha" },
+      { text: "Denominación/Razón Social: REFACCIONAMIENTO Y COMERCIALIZACION PARA LA AUTOMATIZACION", style: "contacto" },
+      { text: "Bodega: PROL. AV. PASEOS DE LA ASUNCION #2049, Fracc. Villas de Santa Rosa C.P. 20284", style: "contacto" },
+      { text: "Oficina: FRANCISCO G . HORNEDO #231, Zona Centro C.P. 20000", style: "contacto" },
+      { text: "Tel. Celular: 4496555878", style: "contacto" }, 
+      { text: "WhatsApp: 4491564905", style: "contacto" },
+      { text: "RFC: RCA151118120", style: "contacto" },
+      { text: "Cotizacion", style: "header", alignment: "center" },
+      { text: "Usuario registrado", style: "body" },
+      { table: { body: tableConten, style: "body" } },
+      { text: "Productos en carrito", style: "body"},
+      { table: { body: tableContent, style: "body"} },
+      { text: "Total: $" + totalCalculado, style: "body" },
+      { text: "Términos comerciales:", alignment: 'center', style: "body" },
+      { text: "Precios:", style: "body"},
+      { ul: [
+        ' Nuestro precio es L.A.B. En ubicación de la obra o en oficinas de nuestro cliente en Aguascalientes, Ags.',
+        'Esta cotización incluye solo los Ítems de los equipos mencionados.',
+        'Se requiere el 10% de efectivo del total de tu cotizacion para proceder con la compra, si esta es menor a $11,000.00 MNX, en caso de exceder este monto se requerira cubrir el monto excedente en efectivo.',
+        'En caso de cancelaciones en compra de equipos, el cliente deberá pagar un 40% del monto total previa autorización.',
+      ], style: "terminos" },
+      { text: "Es muy importante tener la orden de compra y cubiertas las condiciones de pago para que comience a correr el tiempo de entrega, mismos que dará la Secretaría de Desarrollo Económico, Ciencia y Tecnología del Estado de Aguascalientes.", style: "terminos" }
+    ],
+    styles: {
+      header: {
+        fontSize: 15,
+        bold: true,
+        margin: [0, 0, 0, 10]
+      },
+      fecha: {
+        fontSize: 10,
+        bold: true,
+        alignment: "right"
+      },
+      body: {
+        fontSize: 12,
+        bold: true,
+        margin: [0, 8, 0, 8]
+      },
+      terminos: {
+        fontSize: 11,
+        bold: false,
+        margin: [0, 8, 0, 8]
+      },
+      contacto: {
+        fontSize: 10,
+        bold: false,
+        margin: [0, 0, 0, 0],
+        alignment: "right"
+      }
+    }
+  };
+
+  // Obtener la CURP del primer usuario en la lista
+const curp = usuarios[0].curp;
+
+// Crear un elemento HTML "canvas" para dibujar el código de barras
+const canvas = document.createElement("canvas");
+
+// Generar el código de barras y dibujarlo en el canvas
+JsBarcode(canvas, curp, {
+  format: "CODE128",
+  displayValue: false,
+  height: 30,
+  margin: 0,
+  textMargin: 0
+});
+
+// Obtener la imagen del canvas como una cadena base64
+const barcodeImg = canvas.toDataURL();
+
+// Agregar la imagen del código de barras al objeto "docDefinition"
+docDefinition.content.unshift({ image: barcodeImg, width: 150, alignment: "center" });
+
+  pdfMake.createPdf(docDefinition).open();
+}
+
+
+function ejecutarFunciones (){
+  generarPDF();
+  generarPDF2();
+  generarPDF3();
+}

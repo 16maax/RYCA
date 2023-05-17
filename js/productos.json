@@ -42,12 +42,12 @@
     {
         "id": "5",
         "titulo": "Cama Plegable De Masajes",
-        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_621366-MLM52318896800_112022-F.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_976804-MLM47694236732_092021-F.webp",
         "categoria": {
             "nombre": "Belleza",
             "id": "Belleza"
         },
-        "precio": 2365.20
+        "precio":  5500.00 
     },
     {
         "id": "6",
@@ -382,7 +382,7 @@
     {
         "id": "39",
         "titulo": "Kit Para Reposteria",
-        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_998650-CBT49651174999_042022-F.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_610581-CBT48667989148_122021-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
@@ -441,13 +441,13 @@
     },
     {
         "id": "45",
-        "titulo": "Wafflera Taurus",
-        "imagen": "https://elektra.vtexassets.com/arquivos/ids/3401993-1200-1200?v=637869405946670000&width=1200&height=1200&aspect=true",
+        "titulo": "Máquina De Mini Donas Brentwood",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_845856-MLM54692116160_032023-F.webp",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 440.00
+        "precio": 1257.60
     },
     {
         "id": "46",
@@ -601,13 +601,13 @@
     },
     {
         "id": "61",
-        "titulo": "Laptop Lenovo IdeaPad D330",
-        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_704222-MLA51800140970_102022-F.webp",
+        "titulo": "Laptop HP 14-cf2540la",
+        "imagen": "https://officemax.vteximg.com.br/arquivos/ids/1355633-1150-1150/112788_1.jpg?v=638158875843070000",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 7000.00
+        "precio": 9600.00
     },
     {
         "id": "62",
