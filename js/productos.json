@@ -241,23 +241,23 @@
     },
     {
         "id": "25",
-        "titulo": "Juego Cuchillos Tramontina",
+        "titulo": "Juego De Cuchillos 10 Piezas",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_636410-MLA45806967738_052021-F.webp",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 400.00
+        "precio": 669.60
     },
     {
         "id": "26",
-        "titulo": "Juego De Cuchillos 7 Pz",
-        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_978917-CBT48738438654_012022-F.webp",
+        "titulo": "Juego de Cuchillos 6 pzas",
+        "imagen": "https://elektra.vtexassets.com/arquivos/ids/3539396-1200-1200?v=637977535012730000&width=1200&height=1200&aspect=true",
         "categoria": {
             "nombre": "Cocina",
             "id": "Cocina"
         },
-        "precio": 800.00
+        "precio": 1594.80
     },
     {
         "id": "27",
@@ -561,13 +561,13 @@
     },
     {
         "id": "57",
-        "titulo": "Refrigerador Mabe",
-        "imagen": "https://elektra.vtexassets.com/arquivos/ids/3722045-1200-1200?v=638080106959530000&width=1200&height=1200&aspect=true",
+        "titulo": "Refrigerador Daewoo",
+        "imagen": "https://elektra.vtexassets.com/arquivos/ids/3348920-1200-1200?v=637818344890230000&width=1200&height=1200&aspect=true",
         "categoria": {
             "nombre": "Electrodomesticos",
             "id": "Electrodomesticos"
         },
-        "precio": 11999.00
+        "precio": 9958.80
     },
     {
         "id": "58",
@@ -681,13 +681,13 @@
     },
     {
         "id": "69",
-        "titulo": "Pantalla Onn 24",
-        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_999758-MLM54916313103_042023-F.webp",
+        "titulo": "Pantalla Smart Tv Tcl",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_737939-MLA50212371919_062022-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 3958.80
+        "precio": 7282.80
     },
     {
         "id": "70",
@@ -731,13 +731,13 @@
     },
     {
         "id": "74",
-        "titulo": "Bocina Tronsmart Trip",
-        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_659854-MLM50184337470_062022-F.webp",
+        "titulo": "Bocina Recargable",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_668463-MLM53399213395_012023-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 650.00
+        "precio": 1078.80
     },
     {
         "id": "75",
@@ -760,7 +760,7 @@
         "precio": 146.40
     },
     {
-        "id": "17",
+        "id": "77",
         "titulo": "Teclado Ele-Gate",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_785312-MLA43703873397_102020-F.webp",
         "categoria": {
@@ -771,13 +771,13 @@
     },
     {
         "id": "78",
-        "titulo": "Audífonos Inalámbricos Lenovo",
-        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_766219-MLA53988745883_022023-F.webp",
+        "titulo": "Audífonos Inalámbricos Bluetooth",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_628249-CBT54858846146_042023-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 188.40
+        "precio": 1064.40
     },
     {
         "id": "79",
@@ -791,8 +791,8 @@
     },
     {
         "id": "80",
-        "titulo": "Impresora Láser Hp",
-        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_706687-MLM49277642917_032022-F.webp",
+        "titulo": "Impresora a color multifunción HP",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_887990-MLA44396435561_122020-F.webp",
         "categoria": {
             "nombre": "Electronica",
             "id": "Electronica"
@@ -800,9 +800,29 @@
         "precio": 3238.80
     },
     {
+        "id": "810",
+        "titulo": "Engargoladora para Arillo Metálico",
+        "imagen": "https://assets.sams.com.mx/image/upload/f_auto,q_auto:eco,w_350,c_scale,dpr_auto/mx/images/product-images/img_medium/000837232m.jpg",
+        "categoria": {
+            "nombre": "Electronica",
+            "id": "Electronica"
+        },
+        "precio": 4000.00
+    },
+    {
+        "id": "820",
+        "titulo": "All In One Hp 205",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_607991-MLA54104051014_032023-F.webp",
+        "categoria": {
+            "nombre": "Electronica",
+            "id": "Electronica"
+        },
+        "precio": 16798.80
+    },
+    {
         "id": "81",
         "titulo": "Sillon Silla Barbero",
-        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_654026-MLM52111644408_102022-F.webp",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_781293-MLM54410440557_032023-F.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"
@@ -881,8 +901,8 @@
     },
     {
         "id": "89",
-        "titulo": "Mueble Para Estetica",
-        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_724767-MLM49324521089_032022-F.webp",
+        "titulo": "Carrito Auxiliar Estética",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_768726-MLM51483373925_092022-F.webp",
         "categoria": {
             "nombre": "Muebles",
             "id": "Muebles"

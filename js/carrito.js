@@ -120,8 +120,9 @@ function vaciarCarrito(){
 }
 
 function actualizarTotal() {
-    const totalCalculado = productosEnCarrito.reduce((acc, producto) => acc + (producto.precio * producto.cantidad), 0)
-    total.innerText = `$${totalCalculado}`
+  const totalCalculado = productosEnCarrito.reduce((acc, producto) => acc + (producto.precio * producto.cantidad), 0);
+  const totalCalculadoFormateado = totalCalculado.toFixed(2); // Limitar a dos decimales
+  total.innerText = `$${totalCalculadoFormateado}`;
 }
 
 botonComprar.addEventListener("click", comprarCarrito)
@@ -143,7 +144,7 @@ function generarPDF() {
   let usuarios = JSON.parse(localStorage.getItem("usuarios"));
   if (usuarios === null) {
     usuarios = [];
-    Swal.fire('No hay usuarios registrados')
+    Swal.fire('Favor de registrarse')
     return;
   }
 
@@ -153,6 +154,14 @@ function generarPDF() {
   ];
 
   const totalCalculado = productosEnCarrito.reduce((acc, producto) => acc + (producto.precio * producto.cantidad), 0);
+
+  const iva = (totalCalculado * 0.16).toFixed(2);
+
+  const totalGanancia = parseFloat(totalCalculado) + parseFloat(iva);
+
+  const subtotal = totalCalculado.toLocaleString();
+  const ivaa = parseFloat(iva).toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2});
+  const ganancia = totalGanancia.toLocaleString();
 
   var productos = JSON.parse(localStorage.getItem("productos-en-carrito"));
 
@@ -176,7 +185,9 @@ function generarPDF() {
       { table: { body: tableConten, style: "body" } },
       { text: "Productos en carrito", style: "body"},
       { table: { body: tableContent, style: "body"} },
-      { text: "Total: $" + totalCalculado, style: "body" },
+      { text: "Subtotal: $" + subtotal, style: "totales" },
+      { text: "IVA: $" + ivaa, style: "totales" },
+      { text: "Total: $" + ganancia, style: "totales" },
       { text: "Términos comerciales:", alignment: 'center', style: "body" },
       { text: "Precios:", style: "body"},
       { ul: [
@@ -213,6 +224,11 @@ function generarPDF() {
         bold: false,
         margin: [0, 0, 0, 0],
         alignment: "right"
+      },
+      totales: {
+        fontSize: 12,
+        bold: true,
+        margin: [0, 2, 0, 2]
       }
     }
   };
