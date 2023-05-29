@@ -109,7 +109,7 @@ function vaciarCarrito(){
         confirmButtonColor: '#3085d6',
         cancelButtonColor: '#d33',
         confirmButtonText: 'Si',
-        cancelButtonText: 'No'
+        cancelButtonText: 'No' 
       }).then((result) => {
         if (result.isConfirmed) {
             productosEnCarrito.length = 0

@@ -200,6 +200,86 @@
         "precio": 400.00
     },
     {
+        "id": "210",
+        "titulo": "Mesa Para Uñas Con Esmaltero Mrd",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_820320-MLM54764079865_032023-F.webp",
+        "categoria": {
+            "nombre": "Belleza",
+            "id": "Belleza"
+        },
+        "precio": 5206.8
+    },
+    {
+        "id": "220",
+        "titulo": "Tina Para Pies Conair Con Vibración Relajante Spa Pedicure",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_840161-MLM44472388142_012021-F.webp",
+        "categoria": {
+            "nombre": "Belleza",
+            "id": "Belleza"
+        },
+        "precio": 1054.8
+    },
+    {
+        "id": "230",
+        "titulo": "Juego de Peluquería Wahl con 30 Piezas",
+        "imagen": "https://cdn1.coppel.com/images/catalog/pm/1363363-1.jpg",
+        "categoria": {
+            "nombre": "Belleza",
+            "id": "Belleza"
+        },
+        "precio": 1918.8
+    },
+    {
+        "id": "240",
+        "titulo": "Neceser Maletin Reforzada Cosmetiquera Profesional Belleza",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_934121-MLM53783576649_022023-F.webp",
+        "categoria": {
+            "nombre": "Belleza",
+            "id": "Belleza"
+        },
+        "precio": 778.80
+    },
+    {
+        "id": "250",
+        "titulo": "Mueble Para Uñas Acrílicas",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_694829-MLM46863431813_072021-F.webp",
+        "categoria": {
+            "nombre": "Belleza",
+            "id": "Belleza"
+        },
+        "precio": 3597.60
+    },
+    {
+        "id": "260",
+        "titulo": "Cama Plegable De Masajes Portátil Spa Tattoo",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_621366-MLM52318896800_112022-F.webp",
+        "categoria": {
+            "nombre": "Belleza",
+            "id": "Belleza"
+        },
+        "precio": 4140.00
+    },
+    {
+        "id": "270",
+        "titulo": "Lámpara Con Lupa Marca Letmex Bm3150 Estética Maquillista",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_881827-MLM50791202725_072022-F.webp",
+        "categoria": {
+            "nombre": "Belleza",
+            "id": "Belleza"
+        },
+        "precio": 1848.00
+    },
+    {
+        "id": "280",
+        "titulo": "Neceser Maletin Reforzada Cosmetiquera Profesional Belleza con Ruedas",
+        "imagen": "https://m.media-amazon.com/images/I/71YJ1onWT9L._AC_SL1500_.jpg",
+        "categoria": {
+            "nombre": "Belleza",
+            "id": "Belleza"
+        },
+        "precio": 2470.80
+    },
+    {
         "id": "21",
         "titulo": "Hielera",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_929505-MLM69139221418_042023-F.webp",
@@ -398,6 +478,36 @@
             "id": "Cocina"
         },
         "precio": 4548.00
+    },
+    {
+        "id": "410",
+        "titulo": "Estufon Quemador",
+        "imagen": "https://cdn.shopify.com/s/files/1/0469/3193/products/Ferro-16151032-Estufon-1-Quemador-Tipo-Estrella-Gas-LP-Ferro_bc603490-2e98-40b1-a60d-54cebac672e3_2048x2048.jpg?v=1631655610",
+        "categoria": {
+            "nombre": "Cocina",
+            "id": "Cocina"
+        },
+        "precio": 4307.50
+    },
+    {
+        "id": "420",
+        "titulo": "Vaporera",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_707067-MLM31217063092_062019-F.webp",
+        "categoria": {
+            "nombre": "Cocina",
+            "id": "Cocina"
+        },
+        "precio": 990.00
+    },
+    {
+        "id": "430",
+        "titulo": "Olla Vaporera Lamex 30l de Aluminio",
+        "imagen": "https://cdn1.coppel.com/images/catalog/pm/1495273-1.jpg",
+        "categoria": {
+            "nombre": "Cocina",
+            "id": "Cocina"
+        },
+        "precio": 778.80
     },
     {
         "id": "41",
@@ -600,6 +710,116 @@
         "precio": 1399.00
     },
     {
+        "id": "610",
+        "titulo": "Batidora de Pedestal",
+        "imagen": "https://cdn1.coppel.com/images/catalog/pm/1033673-1.jpg",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "Electrodomesticos"
+        },
+        "precio": 886.80
+    },
+    {
+        "id": "620",
+        "titulo": "Fuente de Sodas",
+        "imagen": "https://m.media-amazon.com/images/I/71ymxj3J0sL._AC_SL1500_.jpg",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "Electrodomesticos"
+        },
+        "precio": 3238.80
+    },
+    {
+        "id": "630",
+        "titulo": "Crepera",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_629343-MLM52821037803_122022-F.webp",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "Electrodomesticos"
+        },
+        "precio": 1361.80
+    },
+    {
+        "id": "640",
+        "titulo": "Refrigerador",
+        "imagen": "https://res.cloudinary.com/walmart-labs/image/upload/h_500,w_500,q_auto:best/v1684873538680/gr/images/product-images/img_large/00750174461370L.jpg",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "Electrodomesticos"
+        },
+        "precio": 6944.30
+    },
+    {
+        "id": "650",
+        "titulo": "Plancha para comida",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_827005-MLM53134423505_012023-F.webp",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "Electrodomesticos"
+        },
+        "precio": 700.00
+    },
+    {
+        "id": "660",
+        "titulo": "Máquina De Coser Overlock",
+        "imagen": "https://m.media-amazon.com/images/I/71iQNbzT7PL._AC_SL1500_.jpg",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "Electrodomesticos"
+        },
+        "precio": 6167.48
+    },
+    {
+        "id": "670",
+        "titulo": "Plancha De Vapor Industrial",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_789402-MLM51480949556_092022-F.webp",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "Electrodomesticos"
+        },
+        "precio": 2675.00
+    },
+    {
+        "id": "680",
+        "titulo": "Burro de Planchar Starhaus Plateado",
+        "imagen": "https://cdn1.coppel.com/images/catalog/pm/1130933-1.jpg",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "Electrodomesticos"
+        },
+        "precio": 1078.80
+    },
+    {
+        "id": "690",
+        "titulo": "Maquina Recta Marca Hercules Motor Ahorrador Servo Led 110v",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_632340-MLM40116652414_122019-F.webp",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "Electrodomesticos"
+        },
+        "precio": 9095.00
+    },
+    {
+        "id": "700",
+        "titulo": "Extractor de Jugos 600W",
+        "imagen": "https://m.media-amazon.com/images/I/61Qdc912-pL._AC_SL1500_.jpg",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "Electrodomesticos"
+        },
+        "precio": 1678.8
+    },
+    {
+        "id": "710",
+        "titulo": "Estufa Super Flama de Gabinete con 4 Quemadores de Gas",
+        "imagen": "https://cdn1.coppel.com/images/catalog/pm/6534543-1.jpg",
+        "categoria": {
+            "nombre": "Electrodomesticos",
+            "id": "Electrodomesticos"
+        },
+        "precio": 3598.8
+    },
+    {
         "id": "61",
         "titulo": "Laptop HP 14-cf2540la",
         "imagen": "https://officemax.vteximg.com.br/arquivos/ids/1355633-1150-1150/112788_1.jpg?v=638158875843070000",
@@ -797,7 +1017,7 @@
             "nombre": "Electronica",
             "id": "Electronica"
         },
-        "precio": 3238.80
+        "precio": 3238.90
     },
     {
         "id": "810",
@@ -818,6 +1038,26 @@
             "id": "Electronica"
         },
         "precio": 16798.80
+    },
+    {
+        "id": "830",
+        "titulo": "Báscula Digital Comercial",
+        "imagen": "https://m.media-amazon.com/images/I/61UH6RJpPjL._SL1500_.jpg",
+        "categoria": {
+            "nombre": "Electronica",
+            "id": "Electronica"
+        },
+        "precio": 1224.08
+    },
+    {
+        "id": "840",
+        "titulo": "PC Dell Optiplex 7040 Mini Intel Core i5-6a Gen 16 GB RAM 500 GB HDD",
+        "imagen": "https://cdn1.coppel.com/images/catalog/mkp/5694/3000/56941517-1.jpg",
+        "categoria": {
+            "nombre": "Electronica",
+            "id": "Electronica"
+        },
+        "precio": 6048.9
     },
     {
         "id": "81",
@@ -881,7 +1121,7 @@
     },
     {
         "id": "87",
-        "titulo": "Sillon Barbero",
+        "titulo": "Estante Anaquel",
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_673064-MLM48873188946_012022-F.webp",
         "categoria": {
             "nombre": "Muebles",
@@ -1018,5 +1258,15 @@
             "id": "Muebles"
         },
         "precio": 3800.00
+    },
+    {
+        "id": "101",
+        "titulo": "Mesa Plegable",
+        "imagen": "https://www.costco.com.mx/medias/sys_master/products/hff/hc8/99493579063326.jpg",
+        "categoria": {
+            "nombre": "Muebles",
+            "id": "Muebles"
+        },
+        "precio": 1230.00
     }
 ]
